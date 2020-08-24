@@ -1,0 +1,15 @@
+header {
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    font-style: 20px;
+    background: linear-gradient(to right, red, orange, yellow, green, cyan, blue, purple);
+}
+
+footer {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+    border-top: 2px solid sienna;
+}
